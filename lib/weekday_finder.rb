@@ -6,6 +6,7 @@ class String
     year = (date_array[2]).to_i()
 
     userdate = Time.new(year, month, day)
-    return userdate
+    return userdate.strftime("%A")
+
     end
 end
