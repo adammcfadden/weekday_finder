@@ -1,4 +1,4 @@
-#Number to Words
+#Weekday Finder
 
 This program contains the weekday method.
 
