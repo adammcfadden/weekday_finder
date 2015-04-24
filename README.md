@@ -1,5 +1,9 @@
-accept a date from user and convert to date format
+#Number to Words
 
-See what day of the week the user date is
+This program contains the weekday method.
 
-return day of the week for user entry, to the user
+The weekday method will take a date input, and provide a text version of that number as an output.
+
+>Example: Input = 4/23/2015 Output = Thursday
+
+*Adam McFadden*
